@@ -494,7 +494,7 @@ padding: 0.5rem;
     display: block;
 }
 .social-link > svg{
-    fill:var(--text-color)
+    fill:var(--text-color);
 }
 :root{
     --color-primary:#d73953;
